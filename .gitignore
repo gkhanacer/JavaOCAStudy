@@ -23,7 +23,7 @@ node_modules
 
 
 
-.recommenders/
+#.recommenders/
 *.class
 
 # Mobile Tools for Java (J2ME)
