@@ -23,7 +23,7 @@ node_modules
 
 
 
-#.recommenders/
+.recommenders/
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -51,7 +51,7 @@ local.properties
 .loadpath
 
 # Eclipse Core
-.project
+#.project
 
 # External tool builders
 .externalToolBuilders/
