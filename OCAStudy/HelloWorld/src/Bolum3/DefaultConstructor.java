@@ -34,7 +34,7 @@ public class DefaultConstructor {
 		// Diğer iki constructor'dan biri çağrılmalıdır.
 		
 		// HATA!!!
-		Araba ar = new Araba();
+		// Araba ar = new Araba();
 		
 		// Hata yok...
 		Araba ar1 =  new Araba(2);
