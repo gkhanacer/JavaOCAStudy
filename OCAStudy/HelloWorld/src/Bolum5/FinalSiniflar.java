@@ -3,7 +3,8 @@ package Bolum5;
 /*
  * 
  * final SINIFLAR
- * Bir sınıfı final yaparak, bu sınıfltan türetilme yapılmasını engellemiş oluruz.
+ * Bir sınıfı final yaparak, bu sınıftan türetilme yapılmasını engellemiş oluruz.
+ * Bir sınıf final yapılırsa o sınıfın tüm metodları da final yapılmış olur.
  */
 
 final class Televizyon {	

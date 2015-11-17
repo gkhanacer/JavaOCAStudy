@@ -14,6 +14,7 @@ class A {
 	/*
 	 *  final ve private bir metod, başka bir metod tarafından override ediliyormuş gibi görünür ama 
 	 *   override söz konusu değildir.
+	 *   Çünkü private metodlara yalnızca kendi sınıfları tarafından görülür, erişilir.
 	*/
 	private final void sucluYakala() {
 		System.out.println("A suclu yakala");

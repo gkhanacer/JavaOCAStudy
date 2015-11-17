@@ -11,7 +11,7 @@ public class IlkDegerAlmaSirasi {
 
 	
 	/*
-	 *  Statik alanlar, sınıflara ati olan alanlardır ve static olmayan alanlara(nesne alanları) göre 
+	 *  Statik alanlar, sınıflara ait olan alanlardır ve static olmayan alanlara(nesne alanları) göre 
 	 *  başlangıç değerlerini daha önce alırlar.
 	 */
 	static Kagit ks1 = new Kagit(101);  //DİKKAT - 1
@@ -41,7 +41,7 @@ public class IlkDegerAlmaSirasi {
 	static Kagit ks3 = new Kagit(103);  //DİKKAT - 1
 	
 	public static void main(String[] args) {
-		
+		System.out.println("main metodu");
 		IlkDegerAlmaSirasi ini =  new IlkDegerAlmaSirasi();
 		ini.islemTamam();
 	

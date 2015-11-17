@@ -23,7 +23,7 @@ public class Initialization {
 	 * String  : null
 	 * 
 	 * 
-	 * "Sınıflara ait" global alanlara (statik alanlara) değer atamakla nesnelere ait global alanlara dğer atamak arasında bir fark yoktur.
+	 * "Sınıflara ait" global alanlara değer atamakla nesnelere ait global alanlara dğer atamak arasında bir fark yoktur.
 	 * Static olması bir şeyi değiştirmez.
 	 */
     int i_int;                      
